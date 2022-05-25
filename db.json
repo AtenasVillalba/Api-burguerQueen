@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "product": "hamburguesa doble",
+      "name": "hamburguesa doble",
       "price": 15,
       "image": "./img/bqdo.png",
       "type": "almuerzo y desayuno",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "product": "papas fritas",
+      "name": "papas fritas",
       "price": 5,
       "image": "./img/papas.png",
       "type": "almuerzo y desayuno",
@@ -58,15 +58,15 @@
     },
     {
       "id": 8,
-      "product": "aros de cebolla",
+      "name": "aros de cebolla",
       "price": 5,
-      "image": "./img/onion.png",
+      "image": "./img/onion1.png",
       "type": "almuerzo y desayuno",
       "dateEntry": "20-05-2022"
     },
     {
       "id": 9,
-      "product": "agua 500ml",
+      "name": "agua 500ml",
       "price": 5,
       "image": "./img/agua1.png",
       "type": "almuerzo y desayuno",
@@ -74,7 +74,7 @@
     },
     {
       "id": 10,
-      "product": "agua 750ml",
+      "name": "agua 750ml",
       "price": 7,
       "image": "./img/agua2.png",
       "type": "almuerzo y desayuno",
@@ -82,7 +82,7 @@
     },
     {
       "id": 11,
-      "product": "bebida gaseosa 500ml",
+      "name": "bebida gaseosa 500ml",
       "price": 7,
       "image": "./img/coca.png",
       "type": "almuerzo y desayuno",
@@ -90,7 +90,7 @@
     },
     {
       "id": 12,
-      "product": "bebida gaseosa 750ml",
+      "name": "bebida gaseosa 750ml",
       "price": 10,
       "image": "./img/seven.png",
       "type": "almuerzo y desayuno",
